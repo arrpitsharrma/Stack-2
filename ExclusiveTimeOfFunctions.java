@@ -1,3 +1,5 @@
+//TC: O(n)
+//SC: O(n)
 class Solution {
     public int[] exclusiveTime(int n, List<String> logs) {
         Stack<Integer> st = new Stack();
